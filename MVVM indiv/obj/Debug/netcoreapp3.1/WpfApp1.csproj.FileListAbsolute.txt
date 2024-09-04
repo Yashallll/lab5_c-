@@ -1,0 +1,40 @@
+C:\Users\user1\Desktop\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.exe
+C:\Users\user1\Desktop\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+C:\Users\user1\Desktop\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+C:\Users\user1\Desktop\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+C:\Users\user1\Desktop\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\user1\Desktop\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\user1\Desktop\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\user1\Desktop\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\user1\Desktop\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+C:\Users\user1\Desktop\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
+C:\Users\user1\Desktop\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\user1\Desktop\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+C:\Users\user1\Desktop\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+C:\Users\user1\Desktop\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\user1\Desktop\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\user1\Desktop\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
+E:\MVVM indiv\bin\Debug\netcoreapp3.1\WpfApp1.exe
+E:\MVVM indiv\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+E:\MVVM indiv\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+E:\MVVM indiv\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+E:\MVVM indiv\bin\Debug\netcoreapp3.1\WpfApp1.dll
+E:\MVVM indiv\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+E:\MVVM indiv\obj\Debug\netcoreapp3.1\WpfApp1.csproj.AssemblyReference.cache
+E:\MVVM indiv\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\MVVM indiv\obj\Debug\netcoreapp3.1\App.g.cs
+E:\MVVM indiv\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+E:\MVVM indiv\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
+E:\MVVM indiv\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\MVVM indiv\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+E:\MVVM indiv\obj\Debug\netcoreapp3.1\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\MVVM indiv\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+E:\MVVM indiv\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+E:\MVVM indiv\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache
+E:\MVVM indiv\obj\Debug\netcoreapp3.1\WpfApp1.dll
+E:\MVVM indiv\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+E:\MVVM indiv\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache

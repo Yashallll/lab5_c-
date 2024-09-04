@@ -1,0 +1,32 @@
+C:\Users\user1\Desktop\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+C:\Users\user1\Desktop\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+C:\Users\user1\Desktop\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+C:\Users\user1\Desktop\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\user1\Desktop\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\user1\Desktop\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\user1\Desktop\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\user1\Desktop\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+C:\Users\user1\Desktop\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\user1\Desktop\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\user1\Desktop\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
+C:\test\Sdacha C#\MVP общая\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+C:\test\Sdacha C#\MVP общая\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+C:\test\Sdacha C#\MVP общая\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+C:\test\Sdacha C#\MVP общая\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+C:\test\Sdacha C#\MVP общая\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\test\Sdacha C#\MVP общая\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\test\Sdacha C#\MVP общая\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+C:\test\Sdacha C#\MVP общая\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\test\Sdacha C#\MVP общая\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+C:\test\Sdacha C#\MVP общая\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\Sdacha C#\MVP общая\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+C:\test\Sdacha C#\MVP общая\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+C:\test\Sdacha C#\MVP общая\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\test\Sdacha C#\MVP общая\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\test\Sdacha C#\MVP общая\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\test\Sdacha C#\MVP общая\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache

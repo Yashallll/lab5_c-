@@ -1,0 +1,96 @@
+C:\Users\user1\Desktop\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+C:\Users\user1\Desktop\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+C:\Users\user1\Desktop\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+C:\Users\user1\Desktop\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\user1\Desktop\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\user1\Desktop\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\user1\Desktop\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\user1\Desktop\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+C:\Users\user1\Desktop\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\user1\Desktop\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\user1\Desktop\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
+C:\Users\user1\Desktop\indiv\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+C:\Users\user1\Desktop\indiv\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+C:\Users\user1\Desktop\indiv\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+C:\Users\user1\Desktop\indiv\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\user1\Desktop\indiv\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\user1\Desktop\indiv\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\user1\Desktop\indiv\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\indiv\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\user1\Desktop\indiv\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\indiv\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\indiv\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\indiv\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+C:\Users\user1\Desktop\indiv\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\indiv\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\user1\Desktop\indiv\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\user1\Desktop\indiv\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
+C:\Users\user1\Desktop\indiv MVP\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+C:\Users\user1\Desktop\indiv MVP\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+C:\Users\user1\Desktop\indiv MVP\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+C:\Users\user1\Desktop\indiv MVP\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\user1\Desktop\indiv MVP\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\user1\Desktop\indiv MVP\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\user1\Desktop\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\user1\Desktop\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+C:\Users\user1\Desktop\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\user1\Desktop\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\user1\Desktop\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
+C:\test\Sdacha C#\indiv MVP\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+C:\test\Sdacha C#\indiv MVP\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+C:\test\Sdacha C#\indiv MVP\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+C:\test\Sdacha C#\indiv MVP\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+C:\test\Sdacha C#\indiv MVP\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\test\Sdacha C#\indiv MVP\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\test\Sdacha C#\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+C:\test\Sdacha C#\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\test\Sdacha C#\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+C:\test\Sdacha C#\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\Sdacha C#\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+C:\test\Sdacha C#\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+C:\test\Sdacha C#\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\test\Sdacha C#\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\test\Sdacha C#\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\test\Sdacha C#\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Vlad\Desktop\Sdacha C#\indiv MVP\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+C:\Users\Vlad\Desktop\Sdacha C#\indiv MVP\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+C:\Users\Vlad\Desktop\Sdacha C#\indiv MVP\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+C:\Users\Vlad\Desktop\Sdacha C#\indiv MVP\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\Vlad\Desktop\Sdacha C#\indiv MVP\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\Vlad\Desktop\Sdacha C#\indiv MVP\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\Vlad\Desktop\Sdacha C#\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\Sdacha C#\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\Vlad\Desktop\Sdacha C#\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Vlad\Desktop\Sdacha C#\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\Sdacha C#\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\Sdacha C#\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\Sdacha C#\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\Sdacha C#\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\Vlad\Desktop\Sdacha C#\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\Vlad\Desktop\Sdacha C#\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
+E:\indiv MVP\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+E:\indiv MVP\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+E:\indiv MVP\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+E:\indiv MVP\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+E:\indiv MVP\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+E:\indiv MVP\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+E:\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+E:\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+E:\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+E:\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+E:\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+E:\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+E:\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+E:\indiv MVP\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
